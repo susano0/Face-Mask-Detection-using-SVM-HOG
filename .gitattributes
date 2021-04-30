@@ -1,1 +1,4 @@
 svc* filter=lfs diff=lfs merge=lfs -text
+svc_h filter=lfs diff=lfs merge=lfs -text
+svc_g filter=lfs diff=lfs merge=lfs -text
+svc_h_g_v2 filter=lfs diff=lfs merge=lfs -text
