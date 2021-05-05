@@ -3,7 +3,7 @@
 
 | File Name     | Content    |
 | ------------- |:-------------:| 
-| [`Face Mask Detection-Final.ipynb`](../Face Mask Detection-Final.ipynb)      | Final Code | 
+| [`Face Mask Detection-Final.ipynb`](../blob/main/Face%20Mask%20Detection-Final.ipynb)      | Final Code | 
 | `FaceMask-MobileNetV2-v3.h5`      | MobileNetV2 trained model      | 
 | `FaceMask-MobileNetV2-v6.h5` | MobileNetV2 trained model      |   
 | `haarcascade_frontalface_default.xml` | Haar Cascade for face     |   
